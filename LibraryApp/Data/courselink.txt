@@ -1,0 +1,1 @@
+﻿https://www.linkedin.com/learning/asp-dot-net-core-payment-gateways/generate-a-braintree-client-token?u=82698794
